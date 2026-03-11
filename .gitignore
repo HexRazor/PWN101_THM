@@ -1,0 +1,17 @@
+# Rizin/Cutter disassembler projects
+*.rzdb
+*.lock~
+*.rep/
+**/*.prp
+**/idata/
+**/user/
+**/versioned/
+
+*.pwn101
+*.pwn102
+*.pwn103
+*.pwn104
+*.pwn105
+*.pwn106-user
+*.pwn107
+*.pwn108
